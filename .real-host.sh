@@ -3,7 +3,7 @@
 #Actualizacion 30/01/2019
 #by: Duaner
 #Actualizacion exitosa
-#MENSAJE: con la ayuda del buscador de google entre otros y asi tendras mas facilidad claro tomara tiempo pero lograras aprender aunque sea editando 
+#MENSAJE: Nunca dejes de aprender, Si estas aqui es por curiosidad e intenta aprender shell o bash con la ayuda del buscador de google entre otros y asi tendras mas facilidad claro tomara tiempo pero lograras aprender aunque sea editando 
 clear 
 while :
 do
@@ -75,7 +75,7 @@ read foo
 7)clear
 echo "Leer todo para el buen uso de la herramienta...";
 sleep 2.5
-cat manual.txt
+cat manualES.txt
 read foo
 ;;
 12.25)clear
@@ -87,7 +87,7 @@ read foo
 8)echo ""
 echo -e "\e[1;33mCREDITOS AL DESARROLLADOR\e[0m"
 echo ""
-echo -e "\e[1;31mCoder: @RealStrategy"
+echo -e "\e[1;31mCoder: @Duaner"
 echo -e "\e[1;32m"
 echo ""
 echo -e "\e[1;31mMENSAJE DE RS\e[0m"
